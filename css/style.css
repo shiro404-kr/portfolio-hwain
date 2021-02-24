@@ -75,8 +75,8 @@ body {
 #visual .title-group {
   position: absolute;
   bottom: 23% ;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
+  background: rgba(255, 255, 255, 0.3);
+  color: #171717;
   width: 576px;
   text-transform: uppercase;
   padding: 20px;
@@ -125,7 +125,7 @@ body {
 }
 
 #works {
-  padding-top: 100px;
+  padding-top: 200px;
   padding-bottom: 100px;
   background: #fff;
   text-align: center;
@@ -256,16 +256,7 @@ body {
 
 
 
-
-
-
-
-
 }
-
-
-
-
 
 
 
